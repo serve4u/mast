@@ -1,0 +1,1 @@
+看效果必须必须在index.android.js 引入当前文件root.js

@@ -1,0 +1,2 @@
+想看实例展示效果请在index.android.js 直接引入相关文件
+例如：import Root from './demo/flex';
