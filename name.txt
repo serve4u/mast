@@ -1,6 +1,0 @@
-WeX5仿途牛在线体验	
-http://www.wex5.com/portfolio-items/wex5-tuniu/ 
-
-
-OSChina的Git@OSC客户端 
-http://git.oschina.net/rplees/react-native-gitosc/blob/master/components/Routes.js?dir=0&filepath=components%2FRoutes.js&oid=c679cb6829ecd0fd2aa943a3fb8ef7cdec19865b&sha=5e32571ad534d8fdee54a0538fb3c9aa0afad5c5
